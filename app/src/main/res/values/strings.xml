@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CardFlipAnimation</string>
+    <string name="description_image_1">Android launcher icon</string>
+    <string name="card_back_title">Card Back Cover</string>
+    <string name="card_back_description">This is the back cover of the card</string>
+
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+</resources>
